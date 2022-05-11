@@ -1,1 +1,8 @@
 Victor 	Nota:8,5
+João 		Nota:7,5
+Maria 	Nota:9,5
+Ana 		Nora:2,6
+Aline 	Nota:10
+Claudio	Nota:9,5
+
+
